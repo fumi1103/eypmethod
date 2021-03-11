@@ -24,8 +24,8 @@ img {
 }
 
 body {
-  width: 1600px;
-  height: 1200px;
+ /* width: 1600px;
+  height: 1200px;*/
 }
 
 
@@ -215,7 +215,7 @@ body {
 
 #under_wrapper {
   background-image: url(images/bg.png);
-  background-repeat: no-repeat;
+  
   height: 400px;
   padding-top: 50px;
   position: relative;
